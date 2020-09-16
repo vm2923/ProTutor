@@ -1,3 +1,4 @@
+//Native CPP code
 #include <jni.h>
 //#include <strings.h>
 #include <iostream>
