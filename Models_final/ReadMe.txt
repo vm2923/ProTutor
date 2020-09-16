@@ -1,0 +1,2 @@
+This folder contains 3 folders, folder named 0 contains the models for each word in the basic level.
+Similarly models for words of intermediate level are in folder named 1 , and models for words of hard level are in folder named 2.
